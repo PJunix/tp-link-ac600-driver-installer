@@ -10,7 +10,7 @@ This Python script automates the process of installing drivers for the TP-Link A
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tp-link-ac600-driver-installer.git
+   git clone https://github.com/PJunix/tp-link-ac600-driver-installer.git
 
 2. Navigate to the repository directory:
    ```

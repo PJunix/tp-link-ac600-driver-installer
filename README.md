@@ -27,4 +27,4 @@ This Python script automates the process of installing drivers for the TP-Link A
     "Do you want to reboot?"
     Input y (yes).
     
-    After the reboot, your TP-Link AC600 adapter will work smoothly—like butter! 🧈🎉
+    After the reboot, your TP-Link AC600 adapter will work smooth like butter! 🧈🎉
